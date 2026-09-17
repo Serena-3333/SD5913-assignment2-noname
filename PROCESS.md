@@ -8,8 +8,12 @@ If a model wrote most of plot.py, which is likely and allowed, the interesting p
 is what you had to correct: did it invent a column name, use pandas where a list
 would do, silently drop the rows it could not parse? -->
 
+
+
 ## Tools
 
 ## Kept
 
 ## Rejected
+
+AI gets the data from 1884-2026，which is too much for this assignment，so I reject and delet most unused data 
